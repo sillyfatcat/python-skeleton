@@ -1,0 +1,2 @@
+recursive-include myorg *.py
+include __init__.py
